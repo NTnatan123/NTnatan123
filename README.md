@@ -7,6 +7,6 @@ Meu nome é franklyn
 -utilizo esse espaço para minha organização e compartilhamento dos projetos
 
 ###- você pode entrar em contato comigo 📫
-franklyn.costa@escola.pr.gov.bro
+franklyn.costa@escola.pr.gov.br
 
 ![](https://media.tenor.com/2zr_hNOVfOYAAAAC/modern-warfare2-ghost.gif)
